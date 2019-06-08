@@ -1,4 +1,4 @@
-def addition(num1, num2)
+def addition(20, 50)
 
 end
 

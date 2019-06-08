@@ -2,7 +2,7 @@ def addition(5,4)
 5+4=9
 end
 
-def subtraction(num1, num2)
+def subtraction(10, 5)
 
 end
 

@@ -1,6 +1,5 @@
-def addition(num1,num2)
-return num1
-return num2
+def addition(5,4)
+5+4
 end
 
 def subtraction(num1, num2)

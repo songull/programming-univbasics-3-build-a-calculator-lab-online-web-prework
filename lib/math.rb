@@ -1,5 +1,5 @@
-def addition(20 + 50)
-
+def addition(num1,num2)
+20+50
 end
 
 def subtraction(num1, num2)

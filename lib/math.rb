@@ -1,4 +1,4 @@
-def addition(20, 50)
+def addition(20 + 50)
 
 end
 
